@@ -1,0 +1,136 @@
+.page{
+      font-size: 53px;
+      padding-left: 20px;
+      margin-top: 15px;
+      margin-bottom: 15px; 
+    }
+   
+    .number{
+      background-color: rgb(4, 60, 184);
+      color: white;
+      border: none;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 25px;
+      padding-right: 25px;
+      font-size: 37px;
+      font-weight: bold;
+      text-align: center; 
+      border-radius: 34px;
+    }
+    
+     .follow {
+      background-color: rgb(2, 148, 245);
+      color: white;
+      border: none;
+      padding-top: 17px;
+      padding-bottom: 17px;
+      padding-left: 25px;
+      padding-right: 25px;
+      margin-top: 12px;
+      margin-bottom: 0px;
+      margin-left: 3.5%;
+      font-size: 45px;
+      font-weight: bold;
+      text-align: center; 
+      border-radius: 12px;
+      cursor: pointer;
+  } 
+  
+  .lady{
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 50%;
+      object-position: top;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 35px;
+      margin-right: 0;
+      padding-right: 0;
+      display: flex;
+    }
+    
+    .name{
+      font-size: 53px;
+      font-weight: bold; 
+      margin-top: 0;
+      margin-bottom: 0px;
+      margin-left: 28px;
+      margin-right: 0;
+      padding-left: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+      display: inline-block;
+      
+    }
+    
+    .note{
+      font-size: 35px;
+      color: rgb(94,94,94);
+       padding-top: 55px;
+      padding-left: 0;
+      margin-left: 0;
+      margin-top: 0px;
+      margin-bottom: 0;
+      display: flex;
+      float: left;
+    }
+    
+    .header{
+      height: 70px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      background: rgb(90, 60, 174);
+      margin-left: 30px;
+      margin-right: 30px;
+      
+    }
+    
+    .left-section{
+      width: 200px;
+      font-size: 30px;
+      font-weight: bold;
+      color: white;
+      padding-left: 28px;
+      padding-top: 17px;
+    }
+    
+    .middle-section{
+      flex: 1;
+      margin-left: 105px;
+       margin-right: 52.5px;
+       width: 500px;
+    }
+    
+    .search{
+      font-size: 28px;
+      border: none;
+      border-radius: 25px;
+      background: white;
+      padding-left: 28px;
+      padding-top: 8.5px;
+      padding-bottom: 8.5px;
+      margin-top: 12px;
+    }
+    
+    .right-section{
+      width: 200px;
+    }
+    
+    .download{
+      border-width: 3px;
+      border-style: solid;
+      border-color: white;
+      padding-top: 8.5px;
+      padding-bottom: 8.5px;
+      padding-left: 10px;
+      padding-right: 10px;
+      margin-top: 8px;
+      margin-bottom: 6px;
+      color: white;
+      font-size: 25px;
+      font-weight: bold;
+      background: rgb(90, 60, 174);
+    }
